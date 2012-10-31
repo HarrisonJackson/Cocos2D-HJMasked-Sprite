@@ -3,8 +3,7 @@
 //  Masked Sprite
 //
 //  Created by Harrison Jackson on 10/29/12.
-//  Copyright __MyCompanyName__ 2012. All rights reserved.
-//
+
 
 #import <UIKit/UIKit.h>
 #import "cocos2d.h"
